@@ -1,0 +1,653 @@
+[
+  {
+    "ParkID": 2,
+    "Location": "West side, field house",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 6,
+    "Location": "North east corner, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 8,
+    "Location": "North side, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 10,
+    "Location": "South side, fieldhouse",
+    "Notes": "",
+    "SummerHours": "10:00 am - 11:00 pm",
+    "WinterHours": "10:00 am - 11:00 pm"
+  },
+  {
+    "ParkID": 16,
+    "Location": "West side",
+    "Notes": "",
+    "SummerHours": "10:00 am - Dusk",
+    "WinterHours": "10:00 am - Dusk"
+  },
+  {
+    "ParkID": 21,
+    "Location": "Central",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 28,
+    "Location": "South side at fieldhouse",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 34,
+    "Location": "Central, field house",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 37,
+    "Location": "East side fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 39,
+    "Location": "Central, field house",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 44,
+    "Location": "Central, field house",
+    "Notes": "No Caretaker",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 51,
+    "Location": "North east corner, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 52,
+    "Location": "South side",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 57,
+    "Location": "South side, fieldhouse",
+    "Notes": "",
+    "SummerHours": "9:00 am - 7:00 pm",
+    "WinterHours": "Closed"
+  },
+  {
+    "ParkID": 62,
+    "Location": "West side",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 64,
+    "Location": "Central, field house",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 65,
+    "Location": "East side, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 67,
+    "Location": "Fieldhouse",
+    "Notes": "No Caretaker",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 70,
+    "Location": "North east corner, fieldhouse",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 73,
+    "Location": "Central, field house",
+    "Notes": "No Caretaker",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Closed"
+  },
+  {
+    "ParkID": 75,
+    "Location": "South side of pool building",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 75,
+    "Location": "North east corner, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 76,
+    "Location": "South side, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 76,
+    "Location": "Pitch & Putt (north side)",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 77,
+    "Location": "North west corner, fieldhouse",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 79,
+    "Location": "North east corner fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Closed"
+  },
+  {
+    "ParkID": 84,
+    "Location": "Centre west by parking lot",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Closed"
+  },
+  {
+    "ParkID": 85,
+    "Location": "At Trout Lake",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 86,
+    "Location": "North west corner, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 91,
+    "Location": "Central, field house",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 92,
+    "Location": "West corner",
+    "Notes": "April 1 to October 31",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Closed"
+  },
+  {
+    "ParkID": 96,
+    "Location": "Central, field house",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 102,
+    "Location": "Kerr Road @13th hole",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 110,
+    "Location": "West, caretaker house (actually in Kits)",
+    "Notes": "No Caretaker",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 112,
+    "Location": "Kitsilano Showboat concession",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 112,
+    "Location": "Lifeguard station",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 114,
+    "Location": "Central, field house",
+    "Notes": "No Caretaker",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 119,
+    "Location": "South, field house",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 120,
+    "Location": "Burrard Civic Marina",
+    "Notes": "Sometimes later in summer",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 126,
+    "Location": "East side field house",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 131,
+    "Location": "Fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 137,
+    "Location": "North side, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 140,
+    "Location": "",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 143,
+    "Location": "",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk Weekends only",
+    "WinterHours": "Dawn to Dusk Weekends only"
+  },
+  {
+    "ParkID": 146,
+    "Location": "North east corner",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 148,
+    "Location": "East side, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 151,
+    "Location": "South corner, fieldhouse",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 153,
+    "Location": "Community Hall",
+    "Notes": "Women's is closed Mon - Fri during school days",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 157,
+    "Location": "West side, field house",
+    "Notes": "No Caretaker",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 161,
+    "Location": "North side",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 166,
+    "Location": "Sout east corner, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 167,
+    "Location": "Fieldhouse",
+    "Notes": "No Caretaker",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 167,
+    "Location": "Lookout",
+    "Notes": "",
+    "SummerHours": "7:30 am - 9:00 pm",
+    "WinterHours": "7:30 am - 9:00 pm"
+  },
+  {
+    "ParkID": 167,
+    "Location": "Under \"Seasons",
+    "Notes": "",
+    "SummerHours": "7:30 am - 9:00 pm",
+    "WinterHours": "7:30 am - 9:00 pm"
+  },
+  {
+    "ParkID": 173,
+    "Location": "At front entrance",
+    "Notes": "",
+    "SummerHours": "Hours of operation only",
+    "WinterHours": "Hours of operation only"
+  },
+  {
+    "ParkID": 173,
+    "Location": "Floral hall",
+    "Notes": "",
+    "SummerHours": "Hours of operation only",
+    "WinterHours": "Hours of operation only"
+  },
+  {
+    "ParkID": 174,
+    "Location": "East edge, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 179,
+    "Location": "North west corner, fieldhouse",
+    "Notes": "No Caretaker",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 180,
+    "Location": "North east corner",
+    "Notes": "Family washroom available",
+    "SummerHours": "Tue - Sat 9:00 am - 8:00 pm",
+    "WinterHours": "Tue - Sat 9:00 am - 5:00 pm"
+  },
+  {
+    "ParkID": 181,
+    "Location": "South side, fieldhouse",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 186,
+    "Location": "Oval",
+    "Notes": "No Caretaker",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 187,
+    "Location": "South west corner at Community Hall",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 188,
+    "Location": "South west corner, fieldhouse",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 191,
+    "Location": "North side, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 194,
+    "Location": "East side",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 196,
+    "Location": "North side, fieldhouse",
+    "Notes": "No Caretaker",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 197,
+    "Location": "North side",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 200,
+    "Location": "Barclay Manor (WECC)",
+    "Notes": "",
+    "SummerHours": "Hours of the centre",
+    "WinterHours": "Hours of the centre"
+  },
+  {
+    "ParkID": 201,
+    "Location": "Bathhouse",
+    "Notes": "",
+    "SummerHours": "7:00 am - Dusk",
+    "WinterHours": "10:00 am - Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Park Board Main office",
+    "Notes": "Wheelchair accessible",
+    "SummerHours": "Weekdays only 8:30 am - 5:00 pm",
+    "WinterHours": "Weekdays only 8:30 am - 5:00 pm"
+  },
+  {
+    "ParkID": 206,
+    "Location": "2nd Beach, fieldhouse",
+    "Notes": "Wheelchair accessible",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "3rd Beach, fieldhouse",
+    "Notes": "Wheelchair accessible at parking lot level, Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Aquarium plaza",
+    "Notes": "Wheelchair accessible",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Brockton Oval",
+    "Notes": "Wheelchair accessible, Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Ceperley Picnic Shelter",
+    "Notes": "Wheelchair accessible",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Chilco",
+    "Notes": "Wheelchair accessible",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Fish House",
+    "Notes": "Key to accessible washroom on west side of Fish House available at Pitch and Putt Golf Course ticket booth",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Info Booth",
+    "Notes": "Wheelchair accessible",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Lumberman's Arch",
+    "Notes": "Wheelchair accessible",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Pavilion",
+    "Notes": "Accessible washroom entered from parking lot level, to the left side of the building.",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Pitch & Putt Golf Course",
+    "Notes": "Not accessible, key to accessible washroom on west side of Fish House available at ticket booth",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Prospect Point",
+    "Notes": "Wheelchair accessible",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Prospect Point Picnic, fieldhouse",
+    "Notes": "Wheelchair accessible, Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Totems",
+    "Notes": "Wheelchair accessible",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 206,
+    "Location": "Train, Picnic Shelter",
+    "Notes": "Wheelchair accessible",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 207,
+    "Location": "Concession",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "7:00 am - Dusk"
+  },
+  {
+    "ParkID": 218,
+    "Location": "Concession/fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 218,
+    "Location": "Service Yard - public exterior attached to service building",
+    "Notes": "",
+    "SummerHours": "Dawn - 11:00 pm",
+    "WinterHours": "Dawn - 11:00 pm"
+  },
+  {
+    "ParkID": 219,
+    "Location": "Concession at fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 220,
+    "Location": "East, fieldhouse",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 220,
+    "Location": "West, fieldhouse",
+    "Notes": "",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 221,
+    "Location": "Centre",
+    "Notes": "Caretaker on site",
+    "SummerHours": "Dawn to Dusk",
+    "WinterHours": "Dawn to Dusk"
+  },
+  {
+    "ParkID": 245,
+    "Location": "",
+    "Notes": "",
+    "SummerHours": "Dawn to 10:15 pm",
+    "WinterHours": "Dawn to 10:15 pm"
+  }
+]
