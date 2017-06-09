@@ -1,0 +1,106 @@
+[
+  {
+    "ParkID": 6,
+    "SpecialFeature": "Perimeter Walking Path"
+  },
+  {
+    "ParkID": 6,
+    "SpecialFeature": "Hellenic Garden"
+  },
+  {
+    "ParkID": 11,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 14,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 15,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 16,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 18,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 21,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 24,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 43,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 47,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 110,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 112,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 120,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 147,
+    "SpecialFeature": "Senior's Wellness Circuit"
+  },
+  {
+    "ParkID": 180,
+    "SpecialFeature": "Horseshoe Pitch"
+  },
+  {
+    "ParkID": 180,
+    "SpecialFeature": "Sport Court"
+  },
+  {
+    "ParkID": 192,
+    "SpecialFeature": "Exercise Stations"
+  },
+  {
+    "ParkID": 192,
+    "SpecialFeature": "Picnic Benches"
+  },
+  {
+    "ParkID": 201,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 206,
+    "SpecialFeature": "Wedding Ceremony Site (x3)"
+  },
+  {
+    "ParkID": 206,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 207,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 220,
+    "SpecialFeature": "Wedding Ceremony Site"
+  },
+  {
+    "ParkID": 225,
+    "SpecialFeature": "Seawall"
+  },
+  {
+    "ParkID": 228,
+    "SpecialFeature": "Perimeter Walking Path (730m)"
+  }
+]
