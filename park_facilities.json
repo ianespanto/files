@@ -1,0 +1,3794 @@
+[
+  {
+    "ParkID": 1,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 2,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 2,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 2,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 2,
+    "FacilityCount": 3,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 2,
+    "FacilityCount": 1,
+    "FacilityType": "Football Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 2,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 3,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 3,
+    "FacilityCount": 1,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 6,
+    "FacilityCount": 2,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 6,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 6,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 6,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 6,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 6,
+    "FacilityCount": 1,
+    "FacilityType": "Disc Golf Courses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 6,
+    "FacilityCount": 1,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 6,
+    "FacilityCount": 1,
+    "FacilityType": "Skateboard Parks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/skateboard-parks.aspx"
+  },
+  {
+    "ParkID": 8,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 8,
+    "FacilityCount": 1,
+    "FacilityType": "Cricket Pitches",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 8,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 8,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 8,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 8,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 8,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 2,
+    "FacilityType": "Field Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 3,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 1,
+    "FacilityType": "Football Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 1,
+    "FacilityType": "Skateboard Parks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/skateboard-parks.aspx"
+  },
+  {
+    "ParkID": 10,
+    "FacilityCount": 2,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 13,
+    "FacilityCount": 1,
+    "FacilityType": "Community Halls",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 14,
+    "FacilityCount": 1,
+    "FacilityType": "Skateboard Parks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/skateboard-parks.aspx"
+  },
+  {
+    "ParkID": 14,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 14,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 14,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 15,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 16,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 16,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 16,
+    "FacilityCount": 2,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 16,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 18,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 20,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 20,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 21,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 21,
+    "FacilityCount": 1,
+    "FacilityType": "Restaurants",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 28,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 28,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 28,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 28,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 29,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 34,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 34,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 34,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 34,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 34,
+    "FacilityCount": 1,
+    "FacilityType": "Rugby Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 34,
+    "FacilityCount": 1,
+    "FacilityType": "Running Tracks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 34,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 34,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 37,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 37,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 37,
+    "FacilityCount": 2,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 37,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 37,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 39,
+    "FacilityCount": 2,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 39,
+    "FacilityCount": 1,
+    "FacilityType": "Bowling Greens",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 39,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 39,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 39,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 39,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 39,
+    "FacilityCount": 6,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 39,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 40,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 40,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 42,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 43,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 43,
+    "FacilityCount": 5,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 43,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 43,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 44,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 44,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 44,
+    "FacilityCount": 2,
+    "FacilityType": "Bowling Greens",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 44,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 45,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 45,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 47,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 47,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 47,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 51,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 51,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 51,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 51,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 51,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 51,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 52,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 52,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 52,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 54,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 54,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 54,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 56,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 57,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 57,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 57,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 57,
+    "FacilityCount": 2,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 57,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 60,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 60,
+    "FacilityCount": 1,
+    "FacilityType": "Swimming Pools",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/swimming-pools.aspx"
+  },
+  {
+    "ParkID": 60,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 60,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 60,
+    "FacilityCount": 1,
+    "FacilityType": "Running Tracks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 62,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 63,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 64,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 64,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 64,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 64,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 65,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 65,
+    "FacilityCount": 2,
+    "FacilityType": "Football Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 65,
+    "FacilityCount": 3,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 67,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 67,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 67,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 67,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 68,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 70,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 70,
+    "FacilityCount": 3,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 70,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 70,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 70,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 71,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 72,
+    "FacilityCount": 1,
+    "FacilityType": "Skateboard Parks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/skateboard-parks.aspx"
+  },
+  {
+    "ParkID": 72,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 73,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 73,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 73,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 73,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 73,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 73,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 73,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 74,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 74,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 75,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 75,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 75,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 75,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 75,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 75,
+    "FacilityCount": 1,
+    "FacilityType": "Swimming Pools",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/swimming-pools.aspx"
+  },
+  {
+    "ParkID": 75,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 75,
+    "FacilityCount": 1,
+    "FacilityType": "Food Concessions",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 76,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 76,
+    "FacilityCount": 1,
+    "FacilityType": "Football Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 76,
+    "FacilityCount": 1,
+    "FacilityType": "Golf Courses",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/golf-courses-pitch-and-putts-and-driving-ranges.aspx"
+  },
+  {
+    "ParkID": 76,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 76,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 76,
+    "FacilityCount": 1,
+    "FacilityType": "Rugby Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 76,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 76,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 77,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 77,
+    "FacilityCount": 1,
+    "FacilityType": "Community Halls",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 77,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 77,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 77,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 77,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 77,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 78,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 79,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 79,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 79,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 79,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 79,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 79,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 79,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 80,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 80,
+    "FacilityCount": 2,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 80,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 81,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 81,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 81,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 81,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 81,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 81,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 82,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 82,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 82,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 83,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 83,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 84,
+    "FacilityCount": 2,
+    "FacilityType": "Bowling Greens",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 84,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 84,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 84,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 84,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 84,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 2,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 3,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Rinks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/ice-rinks.aspx"
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Rugby Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Food Concessions",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 85,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 86,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 86,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 86,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 86,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 87,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 87,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 87,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 87,
+    "FacilityCount": 1,
+    "FacilityType": "Community Halls",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 87,
+    "FacilityCount": 4,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 87,
+    "FacilityCount": 1,
+    "FacilityType": "Swimming Pools",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/swimming-pools.aspx"
+  },
+  {
+    "ParkID": 87,
+    "FacilityCount": 1,
+    "FacilityType": "Skateboard Parks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/skateboard-parks.aspx"
+  },
+  {
+    "ParkID": 88,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 88,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 88,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 88,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 89,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 90,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 91,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 91,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 91,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 91,
+    "FacilityCount": 1,
+    "FacilityType": "Bowling Greens",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 91,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 92,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 92,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 93,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 93,
+    "FacilityCount": 1,
+    "FacilityType": "Swimming Pools",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/swimming-pools.aspx"
+  },
+  {
+    "ParkID": 93,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 96,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 96,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 96,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 96,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 96,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 98,
+    "FacilityCount": 1,
+    "FacilityType": "Golf Courses",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/golf-courses-pitch-and-putts-and-driving-ranges.aspx"
+  },
+  {
+    "ParkID": 98,
+    "FacilityCount": 1,
+    "FacilityType": "Restaurants",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 99,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 100,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 100,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 100,
+    "FacilityCount": 4,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 100,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 100,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 101,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 102,
+    "FacilityCount": 1,
+    "FacilityType": "Golf Courses",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/golf-courses-pitch-and-putts-and-driving-ranges.aspx"
+  },
+  {
+    "ParkID": 102,
+    "FacilityCount": 1,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 102,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 102,
+    "FacilityCount": 1,
+    "FacilityType": "Restaurants",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 3,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 1,
+    "FacilityType": "Community Halls",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 2,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 1,
+    "FacilityType": "Rinks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/ice-rinks.aspx"
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 3,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 1,
+    "FacilityType": "Swimming Pools",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/swimming-pools.aspx"
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 1,
+    "FacilityType": "Running Tracks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 103,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 105,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 105,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 106,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 106,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 108,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 108,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 108,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 108,
+    "FacilityCount": 1,
+    "FacilityType": "Rinks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/ice-rinks.aspx"
+  },
+  {
+    "ParkID": 108,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 108,
+    "FacilityCount": 4,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 108,
+    "FacilityCount": 1,
+    "FacilityType": "Cricket Pitches",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 108,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 108,
+    "FacilityCount": 2,
+    "FacilityType": "Rugby Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 108,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 109,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 110,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 112,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 112,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 112,
+    "FacilityCount": 10,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 112,
+    "FacilityCount": 2,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 112,
+    "FacilityCount": 1,
+    "FacilityType": "Swimming Pools",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/swimming-pools.aspx"
+  },
+  {
+    "ParkID": 112,
+    "FacilityCount": 1,
+    "FacilityType": "Beaches",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/beaches.aspx"
+  },
+  {
+    "ParkID": 112,
+    "FacilityCount": 1,
+    "FacilityType": "Restaurants",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 112,
+    "FacilityCount": 1,
+    "FacilityType": "Food Concessions",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 114,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 114,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 114,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 114,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 114,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 119,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 119,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 119,
+    "FacilityCount": 3,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 122,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 123,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 124,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 2,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 3,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 1,
+    "FacilityType": "Outdoor Roller Hockey Rinks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 126,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 127,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 128,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 128,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 128,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 130,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 130,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 131,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 131,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 131,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 131,
+    "FacilityCount": 1,
+    "FacilityType": "Football Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 131,
+    "FacilityCount": 1,
+    "FacilityType": "Rugby Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 131,
+    "FacilityCount": 3,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 133,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 133,
+    "FacilityCount": 1,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 133,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 133,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 134,
+    "FacilityCount": 1,
+    "FacilityType": "Skateboard Parks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/skateboard-parks.aspx"
+  },
+  {
+    "ParkID": 136,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 136,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 137,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 137,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 137,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 137,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 138,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 139,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 139,
+    "FacilityCount": 1,
+    "FacilityType": "Skateboard Parks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/skateboard-parks.aspx"
+  },
+  {
+    "ParkID": 140,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 140,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 140,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 140,
+    "FacilityCount": 3,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 140,
+    "FacilityCount": 2,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 140,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 140,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 141,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 143,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 143,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 143,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 143,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 143,
+    "FacilityCount": 2,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 145,
+    "FacilityCount": 1,
+    "FacilityType": "Golf Courses",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/golf-courses-pitch-and-putts-and-driving-ranges.aspx"
+  },
+  {
+    "ParkID": 145,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 145,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 145,
+    "FacilityCount": 1,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 145,
+    "FacilityCount": 1,
+    "FacilityType": "Restaurants",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 146,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 146,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 146,
+    "FacilityCount": 3,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 146,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 147,
+    "FacilityCount": 1,
+    "FacilityType": "Football Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 147,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 147,
+    "FacilityCount": 2,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 148,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 148,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 148,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 148,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 148,
+    "FacilityCount": 3,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 148,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 148,
+    "FacilityCount": 1,
+    "FacilityType": "Field Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 149,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 150,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 151,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 151,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 151,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 151,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 151,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 151,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 152,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 152,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 152,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 152,
+    "FacilityCount": 1,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 153,
+    "FacilityCount": 2,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 153,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 153,
+    "FacilityCount": 1,
+    "FacilityType": "Community Halls",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 153,
+    "FacilityCount": 1,
+    "FacilityType": "Football Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 153,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 153,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 153,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 153,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 154,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 155,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 155,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 155,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 156,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 156,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 157,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 157,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 157,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 157,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 157,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 158,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 159,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 159,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 159,
+    "FacilityCount": 1,
+    "FacilityType": "Lacrosse Boxes",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 159,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 159,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 159,
+    "FacilityCount": 1,
+    "FacilityType": "Swimming Pools",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/swimming-pools.aspx"
+  },
+  {
+    "ParkID": 159,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 159,
+    "FacilityCount": 1,
+    "FacilityType": "Football Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 159,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 159,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 161,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 161,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 161,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 161,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 161,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 161,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 162,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 164,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 164,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 164,
+    "FacilityCount": 3,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 164,
+    "FacilityCount": 4,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 164,
+    "FacilityCount": 1,
+    "FacilityType": "Rinks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/ice-rinks.aspx"
+  },
+  {
+    "ParkID": 164,
+    "FacilityCount": 1,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 164,
+    "FacilityCount": 1,
+    "FacilityType": "Swimming Pools",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/swimming-pools.aspx"
+  },
+  {
+    "ParkID": 165,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 165,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 165,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 166,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 166,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 166,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 166,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 167,
+    "FacilityCount": 1,
+    "FacilityType": "Bowling Greens",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 167,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 167,
+    "FacilityCount": 1,
+    "FacilityType": "Golf Courses",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/golf-courses-pitch-and-putts-and-driving-ranges.aspx"
+  },
+  {
+    "ParkID": 167,
+    "FacilityCount": 17,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 167,
+    "FacilityCount": 4,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 167,
+    "FacilityCount": 1,
+    "FacilityType": "Disc Golf Courses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 167,
+    "FacilityCount": 2,
+    "FacilityType": "Outdoor Roller Hockey Rinks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 167,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 167,
+    "FacilityCount": 2,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 167,
+    "FacilityCount": 1,
+    "FacilityType": "Restaurants",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 168,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 168,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 168,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 168,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 168,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 168,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 168,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 171,
+    "FacilityCount": 2,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 171,
+    "FacilityCount": 1,
+    "FacilityType": "Rinks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/ice-rinks.aspx"
+  },
+  {
+    "ParkID": 171,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 171,
+    "FacilityCount": 1,
+    "FacilityType": "Field Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 171,
+    "FacilityCount": 1,
+    "FacilityType": "Rinks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/ice-rinks.aspx"
+  },
+  {
+    "ParkID": 171,
+    "FacilityCount": 1,
+    "FacilityType": "Running Tracks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 171,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 173,
+    "FacilityCount": 1,
+    "FacilityType": "Restaurants",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 174,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 174,
+    "FacilityCount": 1,
+    "FacilityType": "Rugby Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 174,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 174,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 175,
+    "FacilityCount": 2,
+    "FacilityType": "Cricket Pitches",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 175,
+    "FacilityCount": 4,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 175,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 175,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 175,
+    "FacilityCount": 3,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 175,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 175,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 175,
+    "FacilityCount": 1,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 177,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 177,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 177,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 179,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 179,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 179,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 179,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 180,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 180,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 180,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 181,
+    "FacilityCount": 1,
+    "FacilityType": "Skateboard Parks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/skateboard-parks.aspx"
+  },
+  {
+    "ParkID": 181,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 181,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 181,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 181,
+    "FacilityCount": 4,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 181,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 181,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 181,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 181,
+    "FacilityCount": 1,
+    "FacilityType": "Running Tracks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 181,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 182,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 184,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 184,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 184,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 185,
+    "FacilityCount": 3,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 185,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 1,
+    "FacilityType": "Cricket Pitches",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 2,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 1,
+    "FacilityType": "Lacrosse Boxes",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 4,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 1,
+    "FacilityType": "Running Tracks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 1,
+    "FacilityType": "Field Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 186,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 187,
+    "FacilityCount": 1,
+    "FacilityType": "Community Halls",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 187,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 187,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 187,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 187,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 188,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 188,
+    "FacilityCount": 1,
+    "FacilityType": "Football Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 188,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 188,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 188,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 188,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 189,
+    "FacilityCount": 1,
+    "FacilityType": "Community Centres",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/community-and-cultural-centres.aspx"
+  },
+  {
+    "ParkID": 189,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 189,
+    "FacilityCount": 1,
+    "FacilityType": "Rinks",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/ice-rinks.aspx"
+  },
+  {
+    "ParkID": 189,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 189,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 191,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 191,
+    "FacilityCount": 4,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 191,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 191,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 191,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 192,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 192,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 194,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 194,
+    "FacilityCount": 2,
+    "FacilityType": "Rugby Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 194,
+    "FacilityCount": 4,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 194,
+    "FacilityCount": 1,
+    "FacilityType": "Football Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 194,
+    "FacilityCount": 2,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 194,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 195,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 195,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 195,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 196,
+    "FacilityCount": 3,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 196,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 196,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 196,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 196,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 197,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 197,
+    "FacilityCount": 2,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 197,
+    "FacilityCount": 2,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 197,
+    "FacilityCount": 1,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 197,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 198,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 198,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 201,
+    "FacilityCount": 1,
+    "FacilityType": "Beaches",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/beaches.aspx"
+  },
+  {
+    "ParkID": 203,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 203,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 1,
+    "FacilityType": "Golf Courses",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/golf-courses-pitch-and-putts-and-driving-ranges.aspx"
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 2,
+    "FacilityType": "Bowling Greens",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 2,
+    "FacilityType": "Cricket Pitches",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 3,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 1,
+    "FacilityType": "Lighted Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 4,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 1,
+    "FacilityType": "Swimming Pools",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/swimming-pools.aspx"
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 2,
+    "FacilityType": "Rugby Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 2,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 21,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 1,
+    "FacilityType": "Running Tracks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 3,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 4,
+    "FacilityType": "Restaurants",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 206,
+    "FacilityCount": 7,
+    "FacilityType": "Food Concessions",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 207,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 207,
+    "FacilityCount": 1,
+    "FacilityType": "Outdoor Roller Hockey Rinks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 207,
+    "FacilityCount": 1,
+    "FacilityType": "Beaches",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/beaches.aspx"
+  },
+  {
+    "ParkID": 207,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 207,
+    "FacilityCount": 1,
+    "FacilityType": "Food Concessions",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 207,
+    "FacilityCount": 1,
+    "FacilityType": "Ball Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 217,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 218,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 218,
+    "FacilityCount": 3,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 218,
+    "FacilityCount": 1,
+    "FacilityType": "Softball",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 218,
+    "FacilityCount": 1,
+    "FacilityType": "Rugby Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 218,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 218,
+    "FacilityCount": 1,
+    "FacilityType": "Beaches",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/beaches.aspx"
+  },
+  {
+    "ParkID": 218,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 218,
+    "FacilityCount": 1,
+    "FacilityType": "Field Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 218,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 218,
+    "FacilityCount": 1,
+    "FacilityType": "Food Concessions",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 219,
+    "FacilityCount": 1,
+    "FacilityType": "Picnic Sites",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/picnics.aspx"
+  },
+  {
+    "ParkID": 219,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 219,
+    "FacilityCount": 1,
+    "FacilityType": "Beaches",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/beaches.aspx"
+  },
+  {
+    "ParkID": 219,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 219,
+    "FacilityCount": 1,
+    "FacilityType": "Food Concessions",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 220,
+    "FacilityCount": 1,
+    "FacilityType": "Beaches",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/beaches.aspx"
+  },
+  {
+    "ParkID": 220,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 220,
+    "FacilityCount": 2,
+    "FacilityType": "Food Concessions",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/restaurants-and-snack-bars.aspx"
+  },
+  {
+    "ParkID": 221,
+    "FacilityCount": 1,
+    "FacilityType": "Baseball Diamonds",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 221,
+    "FacilityCount": 2,
+    "FacilityType": "Bowling Greens",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 221,
+    "FacilityCount": 1,
+    "FacilityType": "Field Houses",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 221,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 221,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 221,
+    "FacilityCount": 4,
+    "FacilityType": "Tennis Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 221,
+    "FacilityCount": 2,
+    "FacilityType": "Basketball Courts",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 221,
+    "FacilityCount": 1,
+    "FacilityType": "Wading Pool",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 222,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 224,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 228,
+    "FacilityCount": 1,
+    "FacilityType": "Field Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 228,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 228,
+    "FacilityCount": 1,
+    "FacilityType": "Jogging Trails",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 228,
+    "FacilityCount": 1,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 228,
+    "FacilityCount": 2,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 234,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 235,
+    "FacilityCount": 1,
+    "FacilityType": "Water/Spray Parks",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 236,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 240,
+    "FacilityCount": 1,
+    "FacilityType": "Playgrounds",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/summer-playground-programs.aspx"
+  },
+  {
+    "ParkID": 240,
+    "FacilityCount": 1,
+    "FacilityType": "Dogs Off-Leash Areas",
+    "FacilityURL": "http://vancouver.ca/parks-recreation-culture/dog-off-leash-areas.aspx"
+  },
+  {
+    "ParkID": 245,
+    "FacilityCount": 2,
+    "FacilityType": "Soccer Fields",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 245,
+    "FacilityCount": 2,
+    "FacilityType": "Field Hockey",
+    "FacilityURL": ""
+  },
+  {
+    "ParkID": 245,
+    "FacilityCount": 1,
+    "FacilityType": "Ultimate Fields",
+    "FacilityURL": ""
+  }
+]
